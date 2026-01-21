@@ -66,4 +66,4 @@ I'm passionate about cybersecurity and currently building my skills in Security 
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** January 2026
